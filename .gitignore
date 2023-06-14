@@ -34,7 +34,7 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-files
+files/*
 !files/Alberta-Canada.jpg
 !files/Arizona.jpg
 !files/Arnarstapi.jpg
