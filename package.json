@@ -1,9 +1,14 @@
 {
   "name": "flmngr-server-node-nest-example-ts",
-  "version": "0.0.1",
+  "version": "1.5.2",
   "description": "",
-  "author": "",
   "private": true,
+  "author": {
+    "name": "EdSDK",
+    "url": "https://edsdk.com/"
+  },
+  "homepage": "https://flmngr.com",
+  "repository": "https://github.com/flmngr/flmngr-server-node-express-example-ts",
   "license": "LGPL v3",
   "scripts": {
     "build": "nest build",
