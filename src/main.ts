@@ -12,6 +12,13 @@ async function bootstrap() {
     dirFiles: "./files"
   });
 
-  await app.listen(3000);
+  let HOST = '127.0.0.1';
+  let PORT = 3000;
+  await app.listen(PORT, HOST);
+
+  // Server started successfully
+  console.log("Nest server with Flmngr started")
+  console.log("Flmngr.urlFileManager = \"http://" + HOST + ":" + PORT + "/flmngr\"");
+  console.log("Live demo: http://" + HOST + ":" + PORT + "");
 }
 bootstrap();

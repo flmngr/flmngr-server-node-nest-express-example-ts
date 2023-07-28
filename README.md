@@ -4,7 +4,7 @@
 
 > Example of integration [Flmngr module for Nest](https://flmngr.com/doc/install-file-manager-server-node-nest) into your Nest app.
 
-Fork this sample and run `php run start` to play with a full featured demo of Flmngr file manager on your NestJS website.
+Fork this sample and run `npm run start` to play with a full featured demo of Flmngr file manager on your NestJS website.
 
 See `src/main.ts` to see how to easily add Flmngr routes using `bindFlmngr(..)` function.
 
