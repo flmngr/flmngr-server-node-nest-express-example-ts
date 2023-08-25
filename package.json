@@ -1,6 +1,6 @@
 {
   "name": "flmngr-server-node-nest-example-ts",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "",
   "private": true,
   "author": {
@@ -30,7 +30,7 @@
     "@nestjs/platform-express": "^9.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0",
-    "@flmngr/flmngr-server-node-nest-express": "^1.5.1"
+    "@flmngr/flmngr-server-node-nest-express": "^1.5.3"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
